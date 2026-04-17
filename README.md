@@ -18,10 +18,6 @@ A Flutter-based mobile application designed to help users find compatible roomma
 - Firebase Authentication
 - Cloud Firestore
 
-## Screenshots
-
-(Add screenshots here later)
-
 ## Getting Started
 
 ### Prerequisites
@@ -35,4 +31,4 @@ A Flutter-based mobile application designed to help users find compatible roomma
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/zehraerdogan30/roommate-matching-platform.git
